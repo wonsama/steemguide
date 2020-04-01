@@ -4,5 +4,5 @@
 
 ## 증인노드구축 <a id="witness"></a>
 
-* [mira-p2p-0.22.5](witness/untitled.md)
+* [mira-p2p-0.22.5](witness/mira-p2p-0.22.5.md)
 
