@@ -4,8 +4,6 @@ description: 스팀 블록체인 생태계에 지속가능한 개발 여건 조�
 
 # DEV.SUPPORTERS
 
-![](.gitbook/assets/200401_devsupporters.png)
-
 ### 팀 목표
 
 > [좀 더 자세히 읽어보기 \(view in steemit\)](https://steemit.com/witness-category/@dev.supporters/dev-supporters)
